@@ -28,3 +28,5 @@
     8. wagons_probeg_ownersip.parquet
 
 1. **train_2.rar** - данные с 1 февраля по 28 февраля
+2. [**данные**](https://drive.google.com/drive/folders/1Qh5ZMSDOJ0d0XuInbW4DyiuhaZ1mfmOv)
+2. [**данные_копия**](https://drive.google.com/drive/folders/1Qh5ZMSDOJ0d0XuInbW4DyiuhaZ1mfmOv)
