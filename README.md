@@ -4,9 +4,11 @@
 
 Прогнозирование отправления вагонов в ремонт от команды [DS_60](https://reg.datawagon.ru/ds).
 
-Василий
+## Авторы
 
-МИхаил 
+* **Василий** - *Начальный работа* - [wasjaip](https://github.com/wasjaip)
+* **Михаил** - *Начальный работа* - [Michael-Golubchik](https://github.com/Michael-Golubchik)
+
 
 Исследование представлено в `jyputer` 
 
