@@ -6,8 +6,8 @@
 
 ## Авторы
 
-* **Василий** - *Начальный работа* - [wasjaip](https://github.com/wasjaip)
-* **Михаил** - *Начальный работа* - [Michael-Golubchik](https://github.com/Michael-Golubchik)
+* **Василий** - *DS* - [wasjaip](https://github.com/wasjaip)
+* **Михаил** - *DS* - [Michael-Golubchik](https://github.com/Michael-Golubchik)
 
 
 Исследование представлено в `jyputer` 
