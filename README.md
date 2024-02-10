@@ -43,5 +43,5 @@
 В итоге, наш проект подчеркнул важность гибкости и адаптивности в области машинного обучения, особенно при работе с данными, которые могут меняться со временем. Мы уверены, что наши выводы окажутся ценными не только для этого проекта, но и для будущих исследований в данной сфере.
 
 Работа конкурентов ( победители) 
-[победители](https://github.com/Kirill2187/datawagon/tree/master)
-[призеры](https://github.com/ordenarion/DataWagon-hackaton-2023-MOII?tab=readme-ov-file)
+* [победители](https://github.com/Kirill2187/datawagon/tree/master)
+* [призеры](https://github.com/ordenarion/DataWagon-hackaton-2023-MOII?tab=readme-ov-file)
